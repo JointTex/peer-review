@@ -34,3 +34,7 @@ A journal revision usually runs `revision-plan`, then the manuscript edits, then
 ## What the skills will not do
 
 They do not invent reviewer comments, results, references or author statements. Anything the project or the collaborator did not supply is left as a marked placeholder and listed at the end. Scientific concessions, the recommendation in a referee report, and whether a journal permits an AI assistant during review are the collaborator's decisions; `referee-report` asks about the last one before reading the manuscript.
+
+## License
+
+MIT. See [LICENSE](LICENSE).

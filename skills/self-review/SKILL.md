@@ -18,7 +18,7 @@ Use this before submission, when the collaborator wants to know what reviewers a
    - limitations that are absent or only decorative;
    - closely related work that is not cited or not compared with. Look for it with bib_lookup, and with web_search when offered; report only work you verified exists, with its source, and never invent a reference;
    - statements of novelty (first, novel, state of the art) that the related work section does not back.
-5. Check what an editor checks before sending it out: scope, length and format against the venue's rules if you have them, anonymisation for blind review (author names, acknowledgements, self-citations in the first person, file metadata, repository links), and required statements. For a full format pass use a submission checklist skill if one is installed.
+5. Check what an editor checks before sending it out: scope, length and format against the venue's rules if you have them, anonymisation for blind review (author names, acknowledgements, self-citations in the first person, author fields set in the source such as PDF metadata options, repository links), and required statements. For a full format pass use a submission checklist skill if one is installed.
 6. Report as a referee would, but for the authors' eyes:
    - a one-paragraph summary of the paper as a reviewer would describe it;
    - the major objections, most damaging first, each with its location, why a reviewer would raise it, and the smallest change that answers it (a rewrite, a caveat, an analysis of data already in hand, or new work);
